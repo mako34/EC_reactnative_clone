@@ -1,0 +1,151 @@
+
+
+
+
+
+///
+
+[0]	Object	Restaurant
+imagesInfo	String	{"restaurantBgImageUrl":"https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/F914EC53-520B-0267-FF15-E1E456B87900_image_0_1547688918399.jpg","imagePhotos":"["https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/F914EC53-520B-0267-FF15-E1E456B87900_image_1_1547688919201.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/F914EC53-520B-0267-FF15-E1E456B87900_image_2_1547688919853.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/F914EC53-520B-0267-FF15-E1E456B87900_image_3_1547688920331.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/F914EC53-520B-0267-FF15-E1E456B87900_image_4_1547688920772.jpg"]","markerCuisine":"malaysian","menuPhotos":"["https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/F914EC53-520B-0267-FF15-E1E456B87900_menu_0.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/F914EC53-520B-0267-FF15-E1E456B87900_menu_1.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/F914EC53-520B-0267-FF15-E1E456B87900_menu_2.jpg","https://dinnerdehttps://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/F914EC53-520B-0267-FF15-E1E456B87900_menu_thumbnail_3.jpal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/F914EC53-520B-0267-FF15-E1E456B87900_menu_3.jpg"]","menuThumbnails":"["https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/F914EC53-520B-0267-FF15-E1E456B87900_menu_thumbnail_0.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/F914EC53-520B-0267-FF15-E1E456B87900_menu_thumbnail_1.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/F914EC53-520B-0267-FF15-E1E456B87900_menu_thumbnail_2.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/F914EC53-520B-0267-FF15-E1E456B87900_menu_thumbnail_3.jpg"]"}
+businessDescription	String	
+latitude	Number	-33.875675300000005
+businessName	String	David's Kitchen
+customDiscountEnabled	Boolean	false
+recentDiscounts	String	[{"dealId":"DD0A7D07-D1E6-2E99-FFC2-53676EE0E500","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":7,"displayedNumRemaining":3,"startTime":"1547253056000","expiration":"1547263800000","recurringType":"weekly","recurringStartTime":"1547857856000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1552705030000"},{"dealId":"7552F586-7837-5D27-FFE5-EE1BA8AD6F00","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":5,"displayedNumRemaining":2,"startTime":"1547272801000","expiration":"1547287201000","recurringType":"weekly","recurringStartTime":"1547877601000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553328717000"},{"dealId":"281014E7-AF09-5078-FF89-B3EE790AB000","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":6,"displayedNumRemaining":2,"startTime":"1547339415000","expiration":"1547350200000","recurringType":"weekly","recurringStartTime":"1547944215000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553395869000"},{"dealId":"5C9BCF68-C5ED-39EB-FF22-CB7B7979E900","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":7,"displayedNumRemaining":4,"startTime":"1547359210000","expiration":"1547373610000","recurringType":"weekly","recurringStartTime":"1547964010000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553420220000"},{"dealId":"E8EB49B8-4DDB-4B93-FFAC-C4584289C000","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1547445659000","expiration":"1547458200000","recurringType":"weekly","recurringStartTime":"1548050459000","recurringExpiration":"null","recurringQuantity":4,"lastRedemptionDate":"1553502661000"},{"dealId":"0571CF7A-B375-5F41-FFC9-2C45155FB200","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1547532013000","expiration":"1547544613000","recurringType":"weekly","recurringStartTime":"1548136813000","recurringExpiration":"null","recurringQuantity":4,"lastRedemptionDate":"1553590817000"},{"dealId":"BE5E0FFB-BAE8-3082-FF81-43F560AE5600","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":1,"displayedNumRemaining":1,"startTime":"1547618440000","expiration":"1547631040000","recurringType":"weekly","recurringStartTime":"1548223240000","recurringExpiration":"null","recurringQuantity":4,"lastRedemptionDate":"1553667883000"},{"dealId":"194AF5FA-9090-F2F1-FF12-2F12C1094500","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1547791253000","expiration":"1547803853000","recurringType":"weekly","recurringStartTime":"1548396053000","recurringExpiration":"null","recurringQuantity":4,"lastRedemptionDate":"1553244300000"},{"dealId":"039C5D56-21F2-326E-FFA5-65E3F4EAA000","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":2,"displayedNumRemaining":2,"startTime":"1547704810000","expiration":"1547717410000","recurringType":"weekly","recurringStartTime":"1548309610000","recurringExpiration":"null","recurringQuantity":4,"lastRedemptionDate":"1553748449000"}]
+foodLabels	Null	
+ownerId	Null	
+geoPoint	Object	com.backendless.geo.model.GeoPoint
+enabled	Boolean	true
+pdfMenu	Null	
+lastUpdated	Date	28/03/2019 3:47:29 PM
+preschedule	Boolean	true
+averageRating	Integer	0
+___class	String Reference	Restaurant
+iap	Boolean	true
+categories	String	["Asian","Chinese","Malaysian","SouthEast Asian"]
+objectId	String	F914EC53-520B-0267-FF15-E1E456B87900
+longitude	Number	151.20859959999999
+cost	Null	
+created	Date	17/01/2019 12:11:46 PM
+businessHours	String	{"sundayOpen":"11:30 AM","saturdayClose":"9:30 PM","thursdayOpen":"11:00 AM","thursdayClose":"9:30 PM","mondayClose":"9:30 PM","fridayOpen":"11:00 AM","tuesdayOpen":"11:00 AM","tuesdayClose":"9:30 PM","mondayOpen":"11:00 AM","wednesdayClose":"9:30 PM","fridayClose":"9:30 PM","saturdayOpen":"11:30 AM","wednesdayOpen":"11:00 AM","sundayClose":"9:30 PM"}
+diningType	Null	
+offersTakeaway	Boolean	false
+businessInfo	String	{"website":"","businessAddress":"225-227 Castlereagh Street","businessCity":"Sydney","businessPhone":"0292676688","businessPostcode":"2000","businessState":"NSW"}
+__meta	String	{"relationRemovalIds":{},"selectedProperties":["imagesInfo","businessDescription","latitude","businessName","customDiscountEnabled","recentDiscounts","foodLabels","ownerId","geoPoint","enabled","pdfMenu","lastUpdated","preschedule","averageRating","___class","iap","categories","objectId","longitude","cost","created","businessHours","diningType","offersTakeaway","businessInfo","rewardCode","region","updated"],"relatedObjects":{"geoPoint":["0595BA07-90E6-73B9-FF85-6CA2F302EB00"]}}
+rewardCode	Null	
+region	String	Sydney
+updated	Date	28/03/2019 3:50:06 PM
+
+[1]	Object	Restaurant
+imagesInfo	String	{"markerCuisine":"asian","restaurantBgImageUrl":"http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/B56C8184-03CF-5FCD-FFC1-29C209097800_image_0_1531369840.jpg","imagePhotos":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/B56C8184-03CF-5FCD-FFC1-29C209097800_image_1_1531369840.jpg"]","menuPhotos":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/0_menu_B56C8184-03CF-5FCD-FFC1-29C209097800_1517544891.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/1_menu_B56C8184-03CF-5FCD-FFC1-29C209097800_1517544892.jpg"]","menuThumbnails":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/0_menu_thumbnail_B56C8184-03CF-5FCD-FFC1-29C209097800_1517544893.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/1_menu_thumbnail_B56C8184-03CF-5FCD-FFC1-29C209097800_1517544893.jpg"]"}
+businessDescription	String	Amazing Vietnamese Fusion sitting in the heart of Ultimo with dishes you’re guaranteed to love. 
+latitude	Number	-33.8843387
+businessName	String	Pho Mumum
+customDiscountEnabled	Boolean	false
+recentDiscounts	String	[{"dealId":"454E66D7-087B-9884-FFEC-35544898B400","isCustom":false,"discountType":"30% Off","isLightning":false,"isTakeawayOnly":false,"numRemaining":7,"displayedNumRemaining":4,"startTime":"1521675021000","expiration":"1521714600000","recurringType":"daily","recurringStartTime":"1522279821000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553748204000"}]
+foodLabels	String	["Vegetarian"]
+ownerId	String	C5DD4B8E-1514-8413-FF09-1061F2C71000
+geoPoint	Object	com.backendless.geo.model.GeoPoint
+metadata	Object	
+latitude	Number	-33.8843387
+___class	String Reference	com.backendless.geo.model.GeoPoint
+categories	Array	
+objectId	String	6ED142F6-5D7E-E5C1-FFDE-EB5F49063400
+longitude	Number	151.20184799999998
+enabled	Boolean	true
+pdfMenu	Null	
+lastUpdated	Date	28/03/2019 3:41:38 PM
+preschedule	Boolean	true
+averageRating	Integer	0
+___class	String Reference	Restaurant
+iap	Boolean	true
+categories	String	["Asian","Vietnamese","SouthEast Asian"]
+objectId	String	B56C8184-03CF-5FCD-FFC1-29C209097800
+longitude	Number	151.20184799999998
+cost	String	$
+created	Date	01/02/2018 4:59:31 PM
+businessHours	String	{"sundayOpen":"10:00 AM","saturdayClose":"10:00 PM","thursdayOpen":"10:00 AM","thursdayClose":"10:00 PM","mondayClose":"10:00 PM","fridayOpen":"10:00 AM","tuesdayOpen":"10:00 AM","tuesdayClose":"10:00 PM","mondayOpen":"10:00 AM","wednesdayClose":"10:00 PM","fridayClose":"10:00 PM","saturdayOpen":"10:00 AM","wednesdayOpen":"10:00 AM","sundayClose":"10:00 PM"}
+diningType	String	Casual Dining
+offersTakeaway	Boolean	true
+businessInfo	String	{"businessPostcode":"2008","businessAddress":"8-14 Broadway","website":"","businessPhone":"0292801838","businessCity":"Chippendale","businessState":"NSW"}
+__meta	String	{"relationRemovalIds":{},"selectedProperties":["imagesInfo","businessDescription","latitude","businessName","customDiscountEnabled","recentDiscounts","foodLabels","ownerId","geoPoint","enabled","pdfMenu","lastUpdated","preschedule","averageRating","___class","iap","categories","objectId","longitude","cost","created","businessHours","diningType","offersTakeaway","businessInfo","rewardCode","region","updated"],"relatedObjects":{"geoPoint":["6ED142F6-5D7E-E5C1-FFDE-EB5F49063400"]}}
+rewardCode	Null	
+region	String Reference	Sydney
+updated	Date	28/03/2019 3:41:38 PM
+
+
+[2]	Object	Restaurant
+imagesInfo	String	{"markerCuisine":"contemporary","imagePhotos":"["https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/C6555894-CB7D-F5A8-FF8F-38489816A700_image_2_1537495098.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/C6555894-CB7D-F5A8-FF8F-38489816A700_image_3_1537495099.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/C6555894-CB7D-F5A8-FF8F-38489816A700_image_4_1537495099.jpg","https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/C6555894-CB7D-F5A8-FF8F-38489816A700_image_4_1550803261.jpg"]","restaurantBgImageUrl":"https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/C6555894-CB7D-F5A8-FF8F-38489816A700_image_1_1537495098.jpg"}
+businessDescription	String	
+latitude	Number	-33.9034532
+businessName	String	Clove Lane
+customDiscountEnabled	Boolean	false
+recentDiscounts	String	[{"dealId":"A96CCF39-AF21-DBBA-FF84-45F23E398C00","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550556010000","expiration":"1550561410000","recurringType":"weekly","recurringStartTime":"1551160810000","recurringExpiration":"null","recurringQuantity":1,"lastRedemptionDate":"1553150422000"},{"dealId":"E43AB101-A9AF-25FD-FF8B-3A8D8D7DE800","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550642410000","expiration":"1550647810000","recurringType":"weekly","recurringStartTime":"1551247210000","recurringExpiration":"null","recurringQuantity":1,"lastRedemptionDate":"1551248106000"},{"dealId":"22896831-5279-18ED-FF59-5A60B884A600","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":3,"displayedNumRemaining":3,"startTime":"1550797231000","expiration":"1550809831000","recurringType":"weekly","recurringStartTime":"1551402031000","recurringExpiration":"null","recurringQuantity":3,"lastRedemptionDate":"null"},{"dealId":"C8B4DEBE-22B6-E478-FFF0-2352F261CC00","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550883606000","expiration":"1550896206000","recurringType":"weekly","recurringStartTime":"1551488406000","recurringExpiration":"null","recurringQuantity":3,"lastRedemptionDate":"1552698802000"},{"dealId":"5BBA660B-9333-D738-FF0E-2C05A3D9A900","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550970059000","expiration":"1550982659000","recurringType":"weekly","recurringStartTime":"1551574859000","recurringExpiration":"null","recurringQuantity":3,"lastRedemptionDate":"1553397953000"},{"dealId":"BF4D8248-E61F-84CF-FF9A-73105CBAB700","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550988042000","expiration":"1550993442000","recurringType":"weekly","recurringStartTime":"1551592842000","recurringExpiration":"null","recurringQuantity":1,"lastRedemptionDate":"1553397970000"},{"dealId":"725F0DB2-B9D6-F6C7-FFE6-4D1EE513E900","isCustom":false,"discountType":"30% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1550710802000","expiration":"1550723402000","recurringType":"weekly","recurringStartTime":"1551315602000","recurringExpiration":"null","recurringQuantity":3,"lastRedemptionDate":"1553748006303"}]
+foodLabels	Null	
+ownerId	String	C068ADB4-60ED-0768-FF34-1142FF141100
+geoPoint	Object	com.backendless.geo.model.GeoPoint
+metadata	Object	
+latitude	Number	-33.9034532
+___class	String Reference	com.backendless.geo.model.GeoPoint
+categories	Array	
+objectId	String	971D730F-B47D-528D-FF13-9F14D38BC600
+longitude	Number	151.2431043
+enabled	Boolean	true
+pdfMenu	String	https://dinnerdeal.backendless.com:443/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_pdfs/pdfmenu_C6555894-CB7D-F5A8-FF8F-38489816A700_1542198551.pdf
+lastUpdated	Date	28/03/2019 3:40:06 PM
+preschedule	Boolean	true
+averageRating	Integer	0
+___class	String Reference	Restaurant
+iap	Boolean	true
+categories	String	["Contemporary","Australian"]
+objectId	String	C6555894-CB7D-F5A8-FF8F-38489816A700
+longitude	Number	151.2431043
+cost	Null	
+created	Date	21/09/2018 10:27:14 AM
+businessHours	String	{"sundayOpen":"10:00 AM","saturdayClose":"10:00 PM","thursdayOpen":"5:00 PM","thursdayClose":"10:00 PM","mondayClose":"Closed","fridayOpen":"12:00 PM","tuesdayOpen":"5:00 PM","tuesdayClose":"10:00 PM","mondayOpen":"Closed","wednesdayClose":"10:00 PM","fridayClose":"10:00 PM","saturdayOpen":"10:00 AM","wednesdayOpen":"5:00 PM","sundayClose":"8:00 PM"}
+diningType	Null	
+offersTakeaway	Boolean	false
+businessInfo	String	{"businessPhone":"0293263573","businessAddress":"19 Clovelly Road","website":"","businessCity":"Randwick","businessPostcode":"2031","businessState":"NSW"}
+__meta	String	{"relationRemovalIds":{},"selectedProperties":["imagesInfo","businessDescription","latitude","businessName","customDiscountEnabled","recentDiscounts","foodLabels","ownerId","geoPoint","enabled","pdfMenu","lastUpdated","preschedule","averageRating","___class","iap","categories","objectId","longitude","cost","created","businessHours","diningType","offersTakeaway","businessInfo","rewardCode","region","updated"],"relatedObjects":{"geoPoint":["971D730F-B47D-528D-FF13-9F14D38BC600"]}}
+rewardCode	Null	
+region	String Reference	Sydney
+updated	Date	28/03/2019 3:40:08 PM
+
+
+[3]	Object	Restaurant
+imagesInfo	String	{"markerCuisine":"indian","restaurantBgImageUrl":"http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/EF258FA3-EB66-479F-FF8D-F36421914A00_image_1_1529033804.jpg","imagePhotos":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/EF258FA3-EB66-479F-FF8D-F36421914A00_image_4_1532596923.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/restaurant_images/EF258FA3-EB66-479F-FF8D-F36421914A00_image_4_1533285921.jpg"]","menuPhotos":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/0_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033862.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/1_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033863.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/2_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033865.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/3_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033865.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/4_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033867.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/5_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033869.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/6_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033870.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_photos/7_menu_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033871.jpg"]","menuThumbnails":"["http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/0_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033872.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/1_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033873.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/2_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033874.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/3_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033875.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/4_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033876.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/5_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033876.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/6_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033876.jpg","http://dinnerdeal.backendless.com:80/api/e14e5098-2393-6d4a-ff80-f5564e042100/v1/files/menu_thumbnails/7_menu_thumbnail_EF258FA3-EB66-479F-FF8D-F36421914A00_1529033877.jpg"]"}
+businessDescription	String	
+latitude	Number	-33.8876807
+businessName	String	MK's Indian Restaurant
+customDiscountEnabled	Boolean	false
+recentDiscounts	String	[{"dealId":"6A17DA26-FA5A-AC64-FF18-9687D8E16D00","isCustom":false,"discountType":"50% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1536130821000","expiration":"1536134421000","recurringType":"weekly","recurringStartTime":"1536735621000","recurringExpiration":"null","recurringQuantity":1,"lastRedemptionDate":"1543386220000"},{"dealId":"B3377358-661C-CBBF-FFE5-1E16D6AFA200","isCustom":false,"discountType":"50% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":0,"displayedNumRemaining":0,"startTime":"1536217244000","expiration":"1536220844000","recurringType":"weekly","recurringStartTime":"1536822044000","recurringExpiration":"null","recurringQuantity":1,"lastRedemptionDate":"1553149073000"},{"dealId":"606C5443-7E66-7235-FF12-5CF45B610D00","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":8,"displayedNumRemaining":3,"startTime":"1546408835000","expiration":"1546421435000","recurringType":"weekly","recurringStartTime":"1547013635000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1550648529000"},{"dealId":"860F0689-455D-6018-FFCB-BD34CA4BFB00","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":7,"displayedNumRemaining":4,"startTime":"1546581624000","expiration":"1546594224000","recurringType":"weekly","recurringStartTime":"1547186424000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1551427495000"},{"dealId":"3235163A-A896-2AD2-FFAA-988DD0EBE200","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":9,"displayedNumRemaining":2,"startTime":"1546653633000","expiration":"1546671633000","recurringType":"weekly","recurringStartTime":"1547258433000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553322324000"},{"dealId":"729F7A0A-7B90-686A-FF6D-E2D0F9478C00","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":8,"displayedNumRemaining":3,"startTime":"1546740049000","expiration":"1546758049000","recurringType":"weekly","recurringStartTime":"1547344849000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1552802932000"},{"dealId":"D254E32B-21CA-696C-FF04-F0BF944DB100","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":8,"displayedNumRemaining":2,"startTime":"1546840859000","expiration":"1546853459000","recurringType":"weekly","recurringStartTime":"1547445659000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1552900344000"},{"dealId":"4E6FE20B-A99A-8CAB-FF43-B300C178F300","isCustom":false,"discountType":"40% Off","isLightning":true,"isTakeawayOnly":false,"numRemaining":9,"displayedNumRemaining":3,"startTime":"1546495224000","expiration":"1546507800000","recurringType":"weekly","recurringStartTime":"1547100024000","recurringExpiration":"null","recurringQuantity":10,"lastRedemptionDate":"1553747992000"}]
+foodLabels	Null	
+ownerId	String	357D28D5-2302-BC14-FFBE-40847658DF00
+geoPoint	Object	com.backendless.geo.model.GeoPoint
+metadata	Object	
+latitude	Number	-33.8876807
+___class	String Reference	com.backendless.geo.model.GeoPoint
+categories	Array	
+objectId	String	5BE730F0-6117-F9A7-FF8C-1E454B6D3700
+longitude	Number	151.1669641
+enabled	Boolean	true
+pdfMenu	Null	
+lastUpdated	Date	28/03/2019 3:39:52 PM
+preschedule	Boolean	true
+averageRating	Integer	0
+___class	String Reference	Restaurant
+iap	Boolean	true
+categories	String	["Indian","Vegetarian","Vegan"]
+objectId	String	EF258FA3-EB66-479F-FF8D-F36421914A00
+longitude	Number	151.1669641
+cost	Null	
+created	Date	14/06/2018 7:20:37 PM
+businessHours	String	{"sundayOpen":"1:00 PM","saturdayClose":"10:00 PM","thursdayOpen":"5:00 PM","thursdayClose":"10:00 PM","mondayClose":"10:00 PM","fridayOpen":"5:00 PM","tuesdayOpen":"Closed","tuesdayClose":"Closed","mondayOpen":"5:00 PM","wednesdayClose":"10:00 PM","fridayClose":"10:00 PM","saturdayOpen":"1:00 PM","wednesdayOpen":"5:00 PM","sundayClose":"10:00 PM"}
+diningType	Null	
+offersTakeaway	Boolean	false
+businessInfo	String	{"website":"","businessAddress":"123 Parramatta Road","businessCity":"Annandale","businessPhone":"0481858098","businessPostcode":"2038","businessState":"NSW"}
+__meta	String	{"relationRemovalIds":{},"selectedProperties":["imagesInfo","businessDescription","latitude","businessName","customDiscountEnabled","recentDiscounts","foodLabels","ownerId","geoPoint","enabled","pdfMenu","lastUpdated","preschedule","averageRating","___class","iap","categories","objectId","longitude","cost","created","businessHours","diningType","offersTakeaway","businessInfo","rewardCode","region","updated"],"relatedObjects":{"geoPoint":["5BE730F0-6117-F9A7-FF8C-1E454B6D3700"]}}
+rewardCode	Null	
+region	String Reference	Sydney
+updated	Date	28/03/2019 3:42:29 PM
+
